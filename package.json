@@ -1,0 +1,17 @@
+{
+  "name": "cities-list-api",
+  "version": "1.0.0",
+  "description": "A simple API to get a list of cities in a country",
+  "main": "index.js",
+  "scripts": {
+    "checkEven": "node checkEven.js",
+    "checkCity": "node checkCity.js"
+  },
+  "keywords": [],
+  "author": "Salman",
+  "license": "ISC",
+  "dependencies": {
+    "@oriano-dev/is-even": "^1.0.1",
+    "cities-list": "^1.0.3"
+  }
+}
