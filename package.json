@@ -4,9 +4,10 @@
   "description": "A simple API to get a list of cities in a country",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "checkEven": "node checkEven.js",
     "checkCity": "node checkCity.js",
-    "randomAnimalImages": "node animal.js"
+    "animal": "node animal.js"
   },
   "keywords": [],
   "author": "Salman",

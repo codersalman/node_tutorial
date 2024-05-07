@@ -6,6 +6,8 @@ const { stdin: input, stdout: output } = require('node:process');
 
 const rl = readline.createInterface({ input, output });
 
+console.log("The Tool checkEven is running");
+
 rl.question('Enter your even Number to check : ', (answer) => {
 
     const result = isEven.number(parseInt(answer,0), "even");
