@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "checkEven": "node checkEven.js",
-    "checkCity": "node checkCity.js"
+    "checkCity": "node checkCity.js",
+    "randomAnimalImages": "node animal.js"
   },
   "keywords": [],
   "author": "Salman",
