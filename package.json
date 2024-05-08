@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@oriano-dev/is-even": "^1.0.1",
-    "cities-list": "^1.0.3"
+    "cities-list": "^1.0.3",
+    "countries-iso-list": "^1.0.8"
   }
 }
